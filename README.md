@@ -14,6 +14,7 @@ If you're looking to build GUIs with PySide2 for Qt 5.15.10 on Jetson Nano, Then
 4. Clone the Repository using
 
    `git clone https://github.com/achuthaperumal/PySide2-NVIDIA-Jetson-Nano.git && cd PySide2-NVIDIA-Jetson-Nano`
+   
 5. Install Shiboken
 
    `python3.7 -m pip install ./shiboken2-5.15.10-5.15.10-cp37-cp37m-linux_aarch64.whl`
